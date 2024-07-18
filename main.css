@@ -1,0 +1,24 @@
+/* 4.Colores 
+    a. Cambiar el color del texto usando la propiedad color.
+    b. Cambiar el color de fondo usando la propiedad background-color. */
+/* 
+*{ 
+    color: yellow;
+    background-color: green;
+}  
+*/
+/* 5. Fuentes (5 minutos)
+    a. Cambiar la fuente del texto usando la propiedad font-family.
+    b. Ajustar el tamaño del texto con font-size. */
+/* *{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+} 
+*/
+/* 6. Márgenes y Padding (5 minutos)
+    a. Ajustar los márgenes externos con la propiedad margin.
+    b.Ajustar el relleno interno con la propiedad padding. */
+/* *{
+       margin: 60px;
+       padding: 20px;
+} */
